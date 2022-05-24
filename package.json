@@ -1,0 +1,30 @@
+{
+  "name": "welight",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "npx cypress open",
+    "cy:run": "npx cypress run",
+    "cy:dashboard": "",
+    "cy:report": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabiMattesco/Automacao-UI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabiMattesco/Automacao-UI/issues"
+  },
+  "homepage": "https://github.com/GabiMattesco/Automacao-UI#readme",
+  "devDependencies": {
+    "cypress": "^9.5.4"
+  },
+  "dependencies": {
+    "faker": "^5.5.3"
+  }
+}
